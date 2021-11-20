@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-vaz1xs=)3hbs#orxn%eb^3jax6&pd+!^h4!s_v&ba*+tdpu-gm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-jalbcast-todo-app.herokuapp.com"]
 
 
 # Application definition
